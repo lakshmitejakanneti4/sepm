@@ -1,0 +1,102 @@
+[
+  {
+    "question": "What is Object-Oriented Programming?",
+    "options": [
+      "A programming paradigm based on structured programming",
+      "A programming paradigm based on functions",
+      "A programming paradigm based on objects",
+      "A programming paradigm based on procedural programming"
+    ],
+    "answer": "A programming paradigm based on objects"
+  },
+  {
+    "question": "Which of the following is not a principle of OOP?",
+    "options": [
+      "Encapsulation",
+      "Inheritance",
+      "Polymorphism",
+      "Compilation"
+    ],
+    "answer": "Compilation"
+  },
+  {
+    "question": "What is encapsulation in Java?",
+    "options": [
+      "Wrapping data and methods into a single unit called class",
+      "Inheritance of methods from a parent class",
+      "Creating multiple methods with the same name",
+      "None of the above"
+    ],
+    "answer": "Wrapping data and methods into a single unit called class"
+  },
+  {
+    "question": "Which keyword is used to inherit a class in Java?",
+    "options": [
+      "implement",
+      "extends",
+      "inherits",
+      "super"
+    ],
+    "answer": "extends"
+  },
+  {
+    "question": "What is polymorphism in Java?",
+    "options": [
+      "The ability to take many forms",
+      "The ability to hide data",
+      "The ability to inherit from a base class",
+      "None of the above"
+    ],
+    "answer": "The ability to take many forms"
+  },
+  {
+    "question": "Which method in Java is called when an object is created?",
+    "options": [
+      "finalize",
+      "main",
+      "constructor",
+      "None of the above"
+    ],
+    "answer": "constructor"
+  },
+  {
+    "question": "What is inheritance in Java?",
+    "options": [
+      "The ability to create multiple methods with the same name",
+      "The mechanism where one class acquires the property of another class",
+      "The process of wrapping data and methods into a single unit",
+      "None of the above"
+    ],
+    "answer": "The mechanism where one class acquires the property of another class"
+  },
+  {
+    "question": "What does the 'super' keyword do in Java?",
+    "options": [
+      "It refers to the current instance of a class",
+      "It refers to the superclass of the object",
+      "It creates a new object",
+      "None of the above"
+    ],
+    "answer": "It refers to the superclass of the object"
+  },
+  {
+    "question": "Which of the following allows a class to have multiple methods with the same name but different parameters?",
+    "options": [
+      "Inheritance",
+      "Encapsulation",
+      "Method Overloading",
+      "Polymorphism"
+    ],
+    "answer": "Method Overloading"
+  },
+  {
+    "question": "What is the purpose of the 'this' keyword in Java?",
+    "options": [
+      "To refer to the current object",
+      "To refer to the superclass of the object",
+      "To inherit properties from a parent class",
+      "None of the above"
+    ],
+    "answer": "To refer to the current object"
+  }
+]
